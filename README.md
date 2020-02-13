@@ -31,3 +31,12 @@ python draw_dfa.py output.csv
 若脚本执行成功, DFA图像将会写入`output.csv.png`文件中.
 
 注意: 本脚本输出的图像中的可能包含不可到达的状态,请自己识别.
+
+
+## Example
+
+下面两张图展示了, 输入的NFA和输出的DFA的图像
+
+![NFA](/egnfa.png)
+
+![DFA](/eg-output.png)
